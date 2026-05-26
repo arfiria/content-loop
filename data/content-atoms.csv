@@ -1,0 +1,7 @@
+id,date,source,type,title,summary,score,channel,status
+atom_20260503_001,2026-05-03,web-news,case-study,非エンジニアがClaude Codeで月3万→15万の実録,プログラミング未経験の会社員が180日でNote副収入を月15万に拡大した記録。再現性が高い,18,note,raw
+atom_20260503_002,2026-05-03,web-news,trend,AI副業コモディティ化時代の差別化戦略,誰でも同じものが作れる時代に突入。差別化できない人は稼げなくなるという警告トレンド,19,note,raw
+atom_20260503_003,2026-05-03,web-news,news,Claude Code Subagent機能で1人生産性が激変,4月アップデートで並列タスク処理が可能に。1人でチーム並みの作業量を実現できる,18,note,raw
+atom_20260503_004,2026-05-03,web-news,case-study,Claude Codeで最初の1万円を稼ぐ5ステップ,完全初心者向けロードマップ。最初の収益化までの最短ルートを具体的に解説している,17,note,planned
+atom_20260503_005,2026-05-03,web-news,pain,フリーランス転向の現実（審査落ち・孤独感）,会社員を辞めると金融審査が通らなくなる現実。副業段階で準備すべき具体的なリスク,13,x,planned
+atom_20260503_006,2026-05-03,web-news,news,Claude Code 5週間で30本更新。何が変わったか,週6本ペースの高速アップデート。追いついていない人は損している可能性がある,16,x,raw

@@ -15,10 +15,10 @@ Note記事・X投稿の企画案を作成してユーザー承認を取る。
 ## 実行モード
 
 **スケジュール自動モード**（Routinesから起動 または「自動モードで企画して」と指示された場合）:
-- Step 1〜3 を実行して企画案を `data/pending-approval.md` に保存
+- Step 1〜3 を実行して企画案を `data/proposals/YYYY-MM-DD.md`（当日日付）に保存
 - pipeline.csv に `status = pending-approval` で追記
 - AskUserQuestion は使わない
-- 完了後に「企画案を pending-approval.md に保存しました。確認・承認後に Layer 3 を実行してください」と報告して停止
+- 完了後に「企画案を proposals/YYYY-MM-DD.md に保存しました。確認・承認後に Layer 3 を実行してください」と報告して停止
 
 **手動インタラクティブモード**（デフォルト）:
 - 従来どおり AskUserQuestion で承認を取ってから pipeline.csv に書き込む
@@ -81,7 +81,8 @@ Note記事・X投稿の企画案を作成してユーザー承認を取る。
 
 **スケジュール自動モードの場合:**
 
-企画案を `data/pending-approval.md` に以下の形式で保存して停止する。
+企画案を `data/proposals/YYYY-MM-DD.md`（当日日付のファイルを新規作成）に以下の形式で保存して停止する。
+既存ファイルは上書きしない。同日に複数回実行された場合は末尾に追記する。
 
 ```markdown
 # 企画案（承認待ち）: YYYY-MM-DD

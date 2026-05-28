@@ -30,7 +30,8 @@ content-loop/
 │   ├── content-atoms.csv      ← 調査済みネタ一覧
 │   ├── content-pipeline.csv   ← 企画〜公開の進捗管理
 │   ├── content-outputs.csv    ← 公開記録
-│   └── pending-approval.md    ← Layer 2 の承認待ち企画案
+│   └── proposals/             ← Layer 2 の承認待ち企画案（日付別ファイル）
+│       └── YYYY-MM-DD.md      ← 当日の企画案（上書きなし・蓄積）
 ├── projects/              ← 生成された記事・X投稿・修正版
 └── reviews/               ← 週次レポート・SEOレビュー
 ```
@@ -40,9 +41,9 @@ content-loop/
 ```
 【毎朝5:00 自動起動】
 Layer 1 調査    → data/content-atoms.csv に追記
-Layer 2 企画    → data/pending-approval.md に保存して停止
-        ↓ Ryo が status を approved に変更
-        ↓ 「Layer 3 実行」で再開
+Layer 2 企画    → data/proposals/YYYY-MM-DD.md に保存して停止
+        ↓ Ryo が proposals/YYYY-MM-DD.md の status を approved に変更
+        ↓ 「Layer 3 実行」で再開（Layer 3 が proposals/ をスキャンして pipeline.csv を更新）
 Layer 3 制作    → projects/ にファイル生成
 Layer 4 QA      → pipeline.csv の status 更新
 Layer 5 公開    → content-outputs.csv に追記・公開チェックリスト完了
@@ -57,7 +58,7 @@ Layer 6 レビュー → 過去7日の記事をSEO採点
 
 **自動実行OK:**
 - Layer 1: atoms.csv への追記（常に）
-- Layer 2: pending-approval.md への保存（スケジュール自動モード時）
+- Layer 2: proposals/YYYY-MM-DD.md への保存（スケジュール自動モード時、上書きなし）
 - Layer 3: projects/ へのファイル生成（status = approved のみ）
 - Layer 4: QAチェック（読み取り・判定のみ）
 - Layer 5: outputs.csv への追記（status = qa-passed のみ）

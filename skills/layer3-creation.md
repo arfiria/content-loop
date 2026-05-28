@@ -5,6 +5,9 @@
 `data/content-pipeline.csv` の `status = approved` コンテンツを読み込み、
 Note記事・X投稿・サムネイル指示書を実際に制作する。
 
+制作開始前に `data/proposals/` 内の全 `.md` ファイルをスキャンし、
+`status: approved` になっている企画案を `pipeline.csv` に反映する（`pending-approval` → `approved`）。
+
 ## 起動タイミング
 
 - Layer 2 完了・承認後に自動または手動で起動

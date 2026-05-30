@@ -30,8 +30,9 @@ content-loop/
 │   ├── content-atoms.csv      ← 調査済みネタ一覧
 │   ├── content-pipeline.csv   ← 企画〜公開の進捗管理
 │   ├── content-outputs.csv    ← 公開記録
-│   └── proposals/             ← Layer 2 の承認待ち企画案（日付別ファイル）
-│       └── YYYY-MM-DD.md      ← 当日の企画案（上書きなし・蓄積）
+│   ├── proposals/             ← Layer 2 の承認待ち企画案（日付別ファイル）
+│   │   └── YYYY-MM-DD.md      ← 当日の企画案（上書きなし・蓄積）
+│   └── youtube_transcripts/   ← Layer 1 が取得したYouTube字幕（VIDEO_ID.ja.vtt）
 ├── projects/              ← 生成された記事・X投稿・修正版
 └── reviews/               ← 週次レポート・SEOレビュー
 ```

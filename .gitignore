@@ -1,0 +1,5 @@
+.env
+*.json
+*.vtt
+__pycache__/
+data/youtube_transcripts/

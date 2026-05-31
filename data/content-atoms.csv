@@ -14,12 +14,18 @@ atom_20260528_006,2026-05-28,web-news,trend,スキル掛け合わせ戦略が202
 atom_20260530_001,2026-05-30,web-news,news,Claude Code RoutinesでProが1日5回の副業自動化が可能に,4月リリースのRoutinesでスケジュール・API・GitHubイベントを起点にClaudeがクラウドで自律実行。Proは1日5回。寝ている間にコンテンツ生成が完了する,19,note,planned
 atom_20260530_002,2026-05-30,web-news,trend,AI活用者と非活用者の副業月収が1.84倍差（2026年調査データ）,AIスキル社調査。AI活用副業者の平均月収46,000円 vs 非活用者25,000円。使うだけで1.84倍差が出るデータが存在する,17,note,raw
 atom_20260530_003,2026-05-30,web-news,trend,Note×AI副業書籍が発売2ヶ月で3万部突破,KADOKAWA「note×AI最強の副業」が2ヶ月で3万部。NoteでのAI副業ニーズが急拡大していることの市場証拠,12,x,raw
-atom_20260530_004,2026-05-30,web-news,trend,AIエージェント実行課金ビジネスの利益率が70〜90%の衝撃,LLMコストが2024年比85%低下。AIエージェントの処理を課金するモデルで利益率70〜90%が実現。月収100万円も射程に入る新フロンティア,17,note,raw
+atom_20260530_004,2026-05-30,web-news,trend,AIエージェント実行課金ビジネスの利益率が70〜90%の衝撃,LLMコストが2024年比85%低下。AIエージェントの処理を課金するモデルで利益率70〜90%が実現。月収100万円も射程に入る新フロンティア,17,note,planned
 atom_20260530_005,2026-05-30,note,case-study,残業月40時間の会社員がAI副業で3ヶ月後に月5万円達成,都内メーカー勤務の会社員がClaude+ChatGPTに月6,300円投資し残業後1時間の作業でクラウドソーシング経由3ヶ月で月5万円突破。再現性の高い実録,16,note,raw
 atom_20260530_006,2026-05-30,web-news,news,Claude Codeレート制限が2倍に拡大・ピーク時制限も撤廃（5月6日）,AnthropicがClaude CodeのProプランの5時間レート制限を2倍に拡大。ピーク時制限も撤廃。副業で使える作業時間が実質2倍になる,15,x,planned
-atom_20260531_001,2026-05-31,web-news,news,Claude Code v2.1.153でバックグラウンドエージェント安定化,バックグラウンドセッション安定化とMCP認証修正。並列AI活用が信頼性高く実用段階に突入,16,x,raw
-atom_20260531_002,2026-05-31,web-news,case-study,Claude Coworkでコード不要・副業月6万円が現実に,スキル機能で記事執筆時間を1/3短縮。クラウドソーシングでコードなしに月6万円が現実的な新スタイル,18,note,raw
+atom_20260531_001,2026-05-31,web-news,news,Claude Code v2.1.153でバックグラウンドエージェント安定化,バックグラウンドセッション安定化とMCP認証修正。並列AI活用が信頼性高く実用段階に突入,16,x,planned
+atom_20260531_002,2026-05-31,web-news,case-study,Claude Coworkでコード不要・副業月6万円が現実に,スキル機能で記事執筆時間を1/3短縮。クラウドソーシングでコードなしに月6万円が現実的な新スタイル,18,note,planned
 atom_20260531_003,2026-05-31,web-news,trend,会社員AI副業の勝ちパターンはクライアント×ストック二刀流,クライアント即収益+ストック資産積み上げのハイブリッド戦略。月5万円達成の最短ルートとして注目,16,note,raw
-atom_20260531_004,2026-05-31,web-news,case-study,非エンジニアがClaude Code副業3ヶ月で受注14万円の記録,54時間・失敗5回で受注14万円（時給2600円）。失敗の内訳と改善策を全公開した実録記事が話題,18,note,raw
-atom_20260531_005,2026-05-31,web-news,news,PwCがClaude Code+Coworkを全社展開。大企業が標準採用,2026年5月最大ニュース。AIコーディング支援が大企業標準ツールになりスキル価値が急上昇中,15,x,raw
+atom_20260531_004,2026-05-31,web-news,case-study,非エンジニアがClaude Code副業3ヶ月で受注14万円の記録,54時間・失敗5回で受注14万円（時給2600円）。失敗の内訳と改善策を全公開した実録記事が話題,18,note,planned
+atom_20260531_005,2026-05-31,web-news,news,PwCがClaude Code+Coworkを全社展開。大企業が標準採用,2026年5月最大ニュース。AIコーディング支援が大企業標準ツールになりスキル価値が急上昇中,15,x,planned
 atom_20260531_006,2026-05-31,web-news,news,Claude Code Fast modeがOpus 4.7に昇格。速度と精度が両立,5月アップデートでfast modeのデフォルトモデルがOpus 4.7に。高速かつ高品質な補完が標準提供に,14,x,raw
+atom_20260531_007,2026-05-31,web-news,news,Claude Opus 4.8デフォルト化+Dynamic workflowsで数百エージェント協調,Week22(5/25-29)最大更新。Opus 4.8デフォルト化とDynamic workflowsで数十〜数百のサブエージェント協調が可能に。副業の生産性が桁違いに増える,17,note,planned
+atom_20260531_008,2026-05-31,web-news,news,Claude Code Pro Auto modeでOpus+Sonnet並列実行・許可プロンプト撤廃,Week21。ProのAuto modeが正式化。Opus+Sonnet 4.6並列実行で許可プロンプトをバックグラウンド安全チェックに置換。副業自律実行がスムーズに,18,note,planned
+atom_20260531_009,2026-05-31,youtube-meta,case-study,Vibeコーディングで副業最初の1万円突破（YouTube事例・3961再生）,RUNTEQ公式YouTube「副業1万円への道」でVibeコーディング（会話のみでWebアプリ）が副業参入の最低学習コストを破壊。3961再生,17,both,planned
+atom_20260531_010,2026-05-31,web-news,case-study,AI副業月収格差データ年25万円差（N=27272人調査）,アドネスラボN=27272調査。AI活用副業者46010円vs非活用者25066円で月差20944円・年差約25万円。使うだけで格差が生まれるデータ,17,note,planned
+atom_20260531_011,2026-05-31,web-news,news,Claude Code /goalコマンドで完了条件まで自律実行。副業ほったらかしが進化,Week20新機能。/goalで完了条件設定するとClaudeが複数ターン自律実行。副業の記事生成・調査を完成まで全自動化できる,18,x,planned
+atom_20260531_012,2026-05-31,web-news,news,/code-review+security-guidanceで副業成果物の品質保証が自動化,Week21の/code-reviewとWeek22のsecurity-guidanceプラグインで品質チェックとセキュリティレビューが自動化。クライアントへの信頼性向上,16,x,raw

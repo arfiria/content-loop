@@ -17,13 +17,13 @@ AIトレンド・Claude Code関連情報・Xのリアルな声を収集し、
 | ツール | ローカル実行 | CCR（Routines自動実行） |
 |--------|------------|----------------------|
 | grok-search | 使用可 | **使用不可** → WebSearchで代替 |
-| YouTube Data API | `.env`あれば使用可 | **スキップ**（`.env`なし） |
-| yt-dlp | インストール済み | **スキップ** |
+| YouTube Data API | `.env`から読み込み | **Routineプロンプトにキー直接埋め込み** ✅ |
+| yt-dlp | インストール済み | `pip install yt-dlp` で実行時インストール ✅ |
 | WebSearch / WebFetch | 使用可 | 使用可 ✅ |
 
 **CCR実行時（Routinesからの自動起動）の場合:**
 - Step 1のX収集は grok-search の代わりに WebSearch を使う（クエリ: `site:twitter.com OR site:x.com "Claude Code" "副業"` など）
-- Step 3（YouTube調査）は `.env` が存在しない場合スキップする
+- Step 3（YouTube調査）はRoutineプロンプト内のAPIキーを使用。実行前に `pip install yt-dlp -q` でインストールする
 
 ---
 

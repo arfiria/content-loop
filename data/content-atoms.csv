@@ -81,3 +81,10 @@ atom_20260608_004,2026-06-08,youtube-meta,case-study,週末3時間×月5万円AI
 atom_20260608_005,2026-06-08,x,case-study,Claude Code+Bedrock APIで月60万円超えの副業事例（X・kinopee）,kinopee氏がClaude Code+Bedrock APIの組み合わせで月60万円超えの副業収益を達成。ただしBedrock経由のため持続性には課題ありと自己分析,15,x,raw
 atom_20260608_006,2026-06-08,youtube-meta,case-study,AIに丸投げClaude Code副業の全手順ゆっくり解説（AI丸投げ副業・YIz68UPHprI）,Claude Codeに作業を丸投げして副業をラクにする方法をゆっくり解説。無料プレゼントのプロンプト集付き。2026年6月8日公開。副業入門として需要大,18,both,raw
 atom_20260608_007,2026-06-08,web-news,trend,Claude Marketplace公開でClaude採用企業急増・副業クライアント獲得が変わる,GitLab・Harvey・Lovable等が参加するClaude Marketplaceが拡大中。Claude活用企業が増えることで副業フリーランスへのClaude関連依頼も急増の予兆,15,note,raw
+atom_20260609_001,2026-06-09,web-news,news,Claude Fable 5一般公開・Mythos-classが6/22まで無料,2026年6月9日本日AnthropicがClaude Fable 5を一般公開。Opus超えのMythos-class。Stripeの5000万行コードベース移行を数日で完了した実例あり。Pro/MaxユーザーはASSは6/22まで追加料金なし,18,note,raw
+atom_20260609_002,2026-06-09,youtube-meta,case-study,Claude Code vs Cursor副業実測比較・決定的な差は停止の有無,ゼロから始めるAI自動化チャンネルが8タスクで実測比較。決定的差は「指示待ち停止の有無」。副業は日常Cursor+複雑タスクClaude Code二刀流が最適解。本日公開（z3cmaSeWjPE）,17,note,raw
+atom_20260609_003,2026-06-09,youtube-meta,case-study,AIみなみ「AIだけで不労所得月5万の自動化術」本日公開,AIみなみが本日公開。AIだけで月5万円不労所得を築く具体的な自動化術。会社員向け最新AIツール活用法を徹底解説。note副業マニュアル連携で収益化モデルも公開（nzgEXRmSWzk）,17,both,raw
+atom_20260609_004,2026-06-09,web-news,pain,AI副業情報過多時代・本物と偽物の見分け方が最重要課題に,副業情報10選を半年漁っても動けない人が急増。「本物の副業」と「楽して稼ぐ系情報」の見分け方需要が急増。判断軸は「実際にビジネスで稼いだ実績があるか」の一点という声が拡散,18,note,raw
+atom_20260609_005,2026-06-09,web-news,news,6月15日Claude料金分離まで残り6日・副業者が今日やること,6月15日のAgent SDK別クレジット化まで残り6日。副業自動化ユーザーはRoutines・GitHub Actions・claude -pの利用量を今すぐ把握必須。対策なしは翌月から予算超過リスク,17,x,raw
+atom_20260609_006,2026-06-09,youtube-meta,case-study,ゆっくり解説「Claude Code神活用術」本日公開・661再生,ゆっくりAI副業チャンネルがClaude Code神活用術を本日公開。ゆっくり解説形式でClaude Code副業の入門層向け教育コンテンツ。視聴者コメントから副業初心者の疑問を抽出（YqmsZ0NQhzk、661再生）,14,x,raw
+atom_20260609_007,2026-06-09,web-news,news,Apple iOS27×Claude統合発表・スマホだけでAI副業が完結する時代,AnthropicがApple Foundation Modelsフレームワーク経由でiOS27・iPadOS27統合を発表。iPhoneネイティブでClaude機能が動作。通勤中スマホだけで副業指示から完結するワークフローが現実化,16,note,raw

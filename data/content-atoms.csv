@@ -108,3 +108,10 @@ atom_20260613_004,2026-06-13,youtube-meta,news,Fable 5停止後の残り9日・6
 atom_20260613_005,2026-06-13,youtube-meta,trend,AI×Obsidianで「自分の言葉」でSNS投稿を自動化する差別化手法（Fg3PPypehB8）,本日公開。SNS運用が続かない原因「自分らしさが消える」をObsidianのナレッジベース×AIで解決。過去ノートから自分の語彙・思考パターンを学習させて副業SNS運用の差別化に活用する手法,18,note,raw
 atom_20260613_006,2026-06-13,youtube-meta,case-study,Claude CodeでFAQ・チケット全自動化・副業の顧客サポートAI化案件（5P8SlFpCTF0）,本日公開。FAQ応答から問い合わせチケット起票まで完全自動化。プログラミング不要・既存ツール連携可。顧客サポートAI化は副業高単価案件（月5〜30万）として需要拡大中,17,note,raw
 atom_20260613_007,2026-06-13,youtube-meta,trend,Fable 5停止後のOpus 4.8代替戦略・副業AIツール見直し（Xn9LT68-nrk）,AI丸投げ副業チャンネルが6/11公開。停止前のFable 5はGPT・Gemini超えコーディング80%超えを実証。停止中の今こそOpus 4.8で代替しつつFable 5復活後の即実行体制を整える戦略が注目,17,x,raw
+atom_20260614_001,2026-06-14,web-news,news,6/15前日・Claude自動化変更の最終行動リスト,明日6月15日からAgent SDK・claude -p・GitHub ActionsがProプラン$20分の別クレジット制へ。対話利用は変更なし。自動化使う副業者はRoutinesの実行回数・使用モデルを今日中に確認必須,19,both,planned
+atom_20260614_002,2026-06-14,youtube-meta,case-study,Claude Code副業TOP7・月30万を狙う方法2026年6月,2026年6月6日公開YouTube(XJIIrG1NG9c)。コードゼロ初心者向けにClaude Codeで月30万円を狙える副業TOP7をランキング形式で解説。LP制作・SNS運用代行・Kindle出版等を具体的に比較,17,note,planned
+atom_20260614_003,2026-06-14,web-news,news,Anthropic・Fable 5輸出規制に異議申し立て・復活見通し,AnthropicはFable 5停止を「誤解に基づく指令」として異議申し立て中。アクセス回復に取り組んでいると声明。副業者はOpus 4.8で代替しつつFable 5復活後の即実行体制を整える戦略が有効,17,note,planned
+atom_20260614_004,2026-06-14,web-news,trend,6/15後もClaude副業月$20内で続ける3つの節約術,Opus→Sonnet 4.6切り替えでコスト1/5・自動化Routinesを週次に間引き・プロンプトキャッシュ活用の3策でProプラン$20クレジット内に収まる。6/15以降も副業コストを抑えて継続できる具体設計が公開,19,note,planned
+atom_20260614_005,2026-06-14,x,pain,X上で「6/15乗り越え vs 乗り換え」副業者が二分,X上でClaude副業者が「継続 vs Codex CLI・Antigravity等へ移行」で二分。実際の使用量・コスト試算のシェア投稿が急増。判断基準は「月の自動化タスク数とモデル選択」という声が多い,17,x,planned
+atom_20260614_006,2026-06-14,youtube-meta,news,YouTube「6/15Claude変更やることは3つだけ」解説動画,副業者向けYouTube(rrk1PjtSOOU)「6/15からClaude Codeの課金が変わる|正直やることは3つだけです」が公開。Routines利用者が今日から取れる最短対策3点をわかりやすく解説した入門動画,19,both,planned
+atom_20260614_007,2026-06-14,web-news,trend,専門性×AI副業が2026年後半に高単価化する唯一の道,AI活用だけでは月収3万が限界に。製造業知識×Claude・SEO×AI等の業界知識とAI掛け合わせが高単価(月5〜15万)に直結。会社員の本業知識が最強の副業武器になるという具体データが複数メディアで報告,18,note,planned

@@ -170,3 +170,9 @@ atom_20260622_004,2026-06-22,web-news,trend,2026年後半「本業知識×Claude
 atom_20260622_005,2026-06-22,web-news,news,Fable 5が6/22有料化移行日を停止中のまま迎えた・復活後の課金リスクが急浮上,本日6/22はFable 5無料期間終了予定日だが停止中のまま。Anthropicは無料期間延長を未発表。復活直後に追加課金が発生するリスクに副業者の注目が集まる,17,both,raw
 atom_20260622_006,2026-06-22,youtube-meta,case-study,Canva×Claude資料作成革命8コツ・非デザイナーが副業デザイン案件に参入（REINAのHermesAIラボ・本日公開）,CanvaとClaudeを組み合わせて非デザイナーもプロ級資料を作れる8コツを公開。LP・プレゼン資料の副業案件に今日から参入できる実演動画,15,x,raw
 atom_20260622_007,2026-06-22,youtube-meta,case-study,WaitLine: Claude Code処理待ち時間に副業収益を得るプラグインが話題（本日公開・NJgtMco7hO0）,ClaudeのUI待ち時間中に広告収益が入る無料プラグインWaitLineが本日公開。Claude Codeの「思考中」をマネタイズする逆転発想が副業の新概念として注目,14,x,raw
+atom_20260625_001,2026-06-25,web-news,news,Fable 5 v2.1.190コードに週次制限設定・復活7月前57%の予測市場,Claude Code v2.1.190のコードにFable 5の週次制限設定が確認された。Kalshi予測市場で7月1日前復活確率57%。副業者が今週中にFable 5対応プロンプト準備の行動喚起が急増,18,both,planned
+atom_20260625_002,2026-06-25,web-news,trend,本業ドメイン×Claude Code実装が副業月5〜20万円の唯一解,2026年後半副業が2極化確定。AI活用だけでは月3万円が限界。通信・営業・製造等の本業知識+Claude Code実装の組み合わせが月5〜20万円帯を独占という結論が各メディアで収束,18,note,planned
+atom_20260625_003,2026-06-25,youtube-meta,case-study,Claude Code vs Cursor副業最新実測2026-06-25公開（ゼロから始めるAI自動化・sXhaR9GLOEw）,2026年6月25日公開。8タスクで副業実測比較。決定的差は「指示待ち停止の有無」。副業は日常Cursor+複雑タスクClaude Code二刀流が最新最適解という2026年6月版最終結論動画,17,note,planned
+atom_20260625_004,2026-06-25,youtube-meta,news,Sakana Fugu国産AIがFable 5凍結で副業ツール代替候補に急浮上（KANERIN ep.80・5J8MaVWretY）,KANERIN Podcast ep.80（6/22公開）で速報。Fable 5輸出規制凍結を受けSakana AI国産「Fugu」が副業ツールの本命候補として急浮上。AI依存分散・国産AI活用が新トレンドに,14,x,raw
+atom_20260625_005,2026-06-25,x,trend,X「Claude Code+ChatGPT+Gemini使い分けが副業最強スタック」に収束,X上の副業者複数が「Claude Code+ChatGPT+Gemini」の3AI使い分けを副業最強スタックとして報告が一致。1ツール依存限界の実感がXで拡散。月$60で副業最強環境が構築可能,15,x,planned
+atom_20260625_006,2026-06-25,web-news,trend,AI副業情報収集中毒から脱出・本業実務AI化から始める行動先行モデルが月5万最速,「情報を買い続けても稼げない」パターンが急増。本業日常業務の小さなAI化→外販化という行動先行モデルが月5万達成の最短ルートとして認知が定着。実務AI化が副業の入口に,17,note,planned
